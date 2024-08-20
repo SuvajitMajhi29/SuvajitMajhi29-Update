@@ -23,7 +23,7 @@ public class UpdateARecord {
      *  |   id  |     firstname        |        lastname        |
      *  ----------------------------------------------------------
      *  |1      |'Steve'               |'Garcia'                |
-     *  |2      |'Alexa'               |'Smith'                 |
+     *  |2      |'Alexa'               |'Rush'                 |
      *  |3      |'Steve'               |'Jones'                 |
      *  |4      |'Brandon'             |'Smith'                 |
      *  |5      |'Adam'                |'Jones'                 |

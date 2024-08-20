@@ -73,7 +73,7 @@ public class UpdateARecordTest {
             //Write SQL logic here
             String sql1 = "CREATE TABLE site_user (id SERIAL PRIMARY KEY, firstname varchar(100), lastname varchar(100));";
             String sql2 = "INSERT INTO site_user (firstname, lastname) VALUES ('Steve', 'Garcia');";
-            String sql3 = "INSERT INTO site_user (firstname, lastname) VALUES ('Alexa', 'Smith');";
+            String sql3 = "INSERT INTO site_user (firstname, lastname) VALUES ('Alexa', 'Rush');";
             String sql4 = "INSERT INTO site_user (firstname, lastname) VALUES ('Steve', 'Jones');";
             String sql5 = "INSERT INTO site_user (firstname, lastname) VALUES ('Brandon', 'Smith');";
             String sql6 = "INSERT INTO site_user (firstname, lastname) VALUES ('Adam', 'Jones');";
